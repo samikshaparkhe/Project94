@@ -1,0 +1,25 @@
+body{
+    background-image: url("logo2.jpg");
+    background-position: center;
+    background-size: cover;
+}
+.logo{
+    width: 100px; height:100px;margin-top: 30px;border-radius: 75px;
+}
+
+.header{
+  color: darkorange;  
+}
+#h_3{
+    color: darkseagreen;
+}
+#h_4{
+    color: lightgreen;
+}
+#user_name{
+    color: lightpink;
+}
+.btn{
+    color:rgb(247, 251, 2);
+    background-color: mediumpurple;
+}
